@@ -52,3 +52,7 @@ Your app is ready to be deployed!
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+[baris-karan](https://github.com/baris-karan)
+[Ahmet Kutuk](https://github.com/Ahmet-Kutuk)
+[Muhammed Deniz](https://github.com/muhammeddeniz)
